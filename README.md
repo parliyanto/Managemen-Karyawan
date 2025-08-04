@@ -22,3 +22,7 @@ This project was created for internal office needs to carry out daily activities
 7. Running server laravel with command "php artisan serve"
 
 ## Documentation
+![Screenshot](/public/1.png)
+![Screenshot](/public/2.png)
+![Screenshot](/public/3.png)
+![Screenshot](/public/4.png)
